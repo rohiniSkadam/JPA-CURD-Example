@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="aop">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Spring Java/springjars/aop.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../Spring Java/springjars/core.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../Spring Java/springjars/ibatis.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../Spring Java/springjars/j2ee.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../Spring Java/springjars/javaconfig.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../Spring Java/springjars/misc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../Spring Java/springjars/persistCore.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../Spring Java/springjars/persistJdbc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../Spring Java/springjars/persistJDO.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../Spring Java/springjars/remoting.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../Spring Java/springjars/test.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../Spring Java/springjars/web.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
